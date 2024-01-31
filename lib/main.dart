@@ -1,4 +1,4 @@
-import 'package:digital_card/p_lib/my_card.dart';
+import 'package:digital_card/my_card.dart';
 import 'package:flutter/material.dart';
 
 void main() {
